@@ -1,7 +1,9 @@
 
 body {
     background-image: url("Background.jpg");
+    font-size: 12px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 20px;
 }
 
 a {
@@ -31,4 +33,26 @@ table, th, td {
 }
 .gym{
     background-color: red;
+}
+
+.poem {
+    text-align: center;
+}
+.classes{
+    width: 60%;
+    table-layout: fixed;
+}
+
+p {
+    margin-top: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    background-image: url(Blue-Background.png);
+}
+
+hr {
+    height: 5px;
+    background-color: black;
 }
